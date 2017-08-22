@@ -5,7 +5,7 @@ this page and doing a pull request.
 
 ## Categories
 
-###Machine Learning
+### Machine Learning
 
 1. Feedback Networks
 ```
