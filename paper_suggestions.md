@@ -7,7 +7,7 @@ this page and doing a pull request.
 
 ### Machine Learning
 
-1. Feedback Networks
+1. **Feedback Networks**
 * Authors: Amir R. Zamir, Te-Lin Wu, Lin Sun, William Shen, Jitendra Malik, Silvio Savarese
 * Paper: [arXiv link](https://arxiv.org/abs/1612.09508)
 
