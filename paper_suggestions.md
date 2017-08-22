@@ -10,7 +10,7 @@ this page and doing a pull request.
 1. Feedback Networks
 ```
 Authors: Amir R. Zamir, Te-Lin Wu, Lin Sun, William Shen, Jitendra Malik, Silvio Savarese
-Paper: [arXiv link](https://arxiv.org/abs/1612.09508)
+Paper: https://arxiv.org/abs/1612.09508
 ```
 
 
