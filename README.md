@@ -20,6 +20,7 @@ We keep a [list of papers that we would like to talk about](paper_ideas.md).
 Send us pull requests to add your own!
 
 ### Communication
+- [Facebook group](https://www.facebook.com/groups/eindhovenpwl)
 - [Discord group](https://discord.gg/6GSA6Dz).
 - Slack channel (#eindhoven) on the [official PWL slack team](http://papersweloveslack.herokuapp.com/).
 
