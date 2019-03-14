@@ -27,4 +27,10 @@ Send us pull requests to add your own!
 
 ### Contact
 
-- Jim Aldon D'Souza | [GitHub](https://github.com/jimdsouza) | [Twitter](https://twitter.com/jimdsouza)
+- Jim Aldon D'Souza | [GitHub](https://github.com/jimaldon) | [Twitter](https://twitter.com/jimdsouza)
+
+- Maarten Metz | [GitHub](https://github.com/mmzsource) | [Twitter](https://twitter.com/mmz_) 
+
+
+
+
